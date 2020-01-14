@@ -1,5 +1,5 @@
 from selenium import webdriver
-driver = webdriver.Chrome("C:\\Users\\RAM\\Desktop\\Python\\chromedriver.exe") # need file path to work
+driver = webdriver.Chrome("path\\to\\chromedriver.exe") # need file path to work
 driver.maximize_window()
 driver.get('https://www.seleniumeasy.com/test/basic-first-form-demo.html')
 
