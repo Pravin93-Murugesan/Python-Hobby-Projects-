@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains # For drag & drop
-driver = webdriver.Chrome("C:\\Users\\RAM\\Desktop\\Python\\chromedriver.exe")
+driver = webdriver.Chrome("path\\to\\chromedriver.exe")
 driver.maximize_window()
 driver.get('http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html')
 
