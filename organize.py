@@ -1,8 +1,9 @@
+# Import required modules
 import os
 from pathlib import Path
 
 # Change working directly (temporary)
-os.chdir('C:\\Users\\RAM\\Desktop\\Python\\Organize\\Ex_Files_Python_Automation\\Exercise Files\\OrganizeMe')
+os.chdir('to\\your\\path')
 
 # Directory Dictionary
 SUBDIRECTORIES = {
