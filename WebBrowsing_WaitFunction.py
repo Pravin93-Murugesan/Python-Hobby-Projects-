@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Example 1 (Asynchronous webpage loading)
 url = 'https://www.google.com/earth/'
-driver = webdriver.Chrome("C:\\Users\\RAM\\Desktop\\Python\\chromedriver.exe")
+driver = webdriver.Chrome("path\\to\\chromedriver.exe")
 driver.get(url)
 
 wait = WebDriverWait(driver, 5)
