@@ -1,6 +1,10 @@
 # Python-Hobby-Projects-
 Simple scripts to automate mundane work with Python
 
+<p align="center">
+<img src="https://github.com/Pravin93-Murugesan/Python-Hobby-Projects-/blob/master/automate_edit.png" width="400">
+</p>
+
 ### Codes are created to:
 1) Organize files in a folder\n
       - Using a directory dictionary and user-defined functions, files are segregated and placed into appropriate folders
