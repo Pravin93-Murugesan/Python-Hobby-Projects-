@@ -24,4 +24,3 @@ Simple scripts to automate mundane work with Python. Image taken from the book *
       - One can get weather updates
       - Python files showcasing the two mentioned cases are uploaded  
       
-Learnt from a course on LinkedIn Learning.
