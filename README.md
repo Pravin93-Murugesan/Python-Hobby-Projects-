@@ -1,8 +1,8 @@
 # Python-Hobby-Projects-
-Simple scripts to automate mundane work with Python
+Simple scripts to automate mundane work with Python. Image taken from the book *Automate the Boring Stuff with Python: Practical Programming for Total Beginners*.
 
 <p align="center">
-<img src="https://github.com/Pravin93-Murugesan/Python-Hobby-Projects-/blob/master/automate_edit.png" width="400">
+<img src="https://github.com/Pravin93-Murugesan/Python-Hobby-Projects-/blob/master/automate_edit.png" width="400"> 
 </p>
 
 ### Codes are created to:
