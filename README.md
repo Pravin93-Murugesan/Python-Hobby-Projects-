@@ -8,6 +8,7 @@ Simple scripts to automate mundane work with Python
 ### Codes are created to:
 1) Organize files in a folder
       * Using a directory dictionary and user-defined functions, files are segregated and placed into appropriate folders  
+      \
 2) Automate web scraping with Beautiful Soup
       - Beautiful Soup package is needed to read HTML
       - With the 'Inspect' option in a web browser, it is possible to get information from webpages
