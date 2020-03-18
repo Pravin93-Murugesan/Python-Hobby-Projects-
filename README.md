@@ -8,7 +8,7 @@ Simple scripts to automate mundane work with Python. Image taken from the book *
 Codes are created to: 
   
 **1) Cryptanalyze Caeser Cipher**  
-      * Using the frequency distribution of the letters in the english language, it is possible to decode secret messages. One such             example ( a speech by Woodrow Wilson to the house of congress in 1917 ) is taken and decoded. 
+⋅⋅⋅Using the frequency distribution of the letters in the english language, it is possible to decode secret messages. One such             example ( a speech by Woodrow Wilson to the house of congress in 1917 ) is taken and decoded. 
 
 **2) Organize files in a folder**  
       * Using a directory dictionary and user-defined functions, files are segregated and placed into appropriate folders  
@@ -19,8 +19,8 @@ Codes are created to:
       - Different python files are uploaded to get web content from a single webpage & multiple webpages  
       
 **4) Automate web browsing with Selenium**  
-      - Selenium webdriver is needed to establish an interface with the web browser
-      - Python files are uploaded to enter information, click buttons and drag/drop objects in a website  
+        - Selenium webdriver is needed to establish an interface with the web browser
+        - Python files are uploaded to enter information, click buttons and drag/drop objects in a website  
       
 **5) Automating with APIs requests**  
       - There are endless reasons of making API calls
