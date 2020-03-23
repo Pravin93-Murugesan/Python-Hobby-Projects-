@@ -1,4 +1,5 @@
-# Python-Hobby-Projects-
+# Python Hobby Project
+## Python and Automation
 Simple scripts to automate mundane work with Python. Image taken from the book *Automate the Boring Stuff with Python: Practical Programming for Total Beginners*.
 
 <p align="center">
